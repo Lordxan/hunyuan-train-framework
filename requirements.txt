@@ -1,0 +1,8 @@
+docopt
+torch
+ultralytics
+transformers
+pillow
+opencv-python
+accelerate>=0.26.0
+bitsandbytes
