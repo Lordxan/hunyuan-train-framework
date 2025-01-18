@@ -2,7 +2,7 @@ docker run \
   --gpus all \
   -ti \
   --rm \
-  -v llava:/root/.cache \
+  -v hunyuan-cli-cache:/root/.cache \
   -v ./out:/app/out \
   -w /app \
   -u root \
